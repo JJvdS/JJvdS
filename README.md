@@ -16,4 +16,4 @@
 
 [![Tools](https://skillicons.dev/icons?i=figma,ps,ae,blender,threejs,vscode,eclipse&theme=dark)](https://skillicons.dev)
 
-Currently sharpening my OCaml, drawn to functional programming and low level systems.
+Currently sharpening / focussing on OCaml and C++, drawn to functional programming, low level systems and cybersec.
