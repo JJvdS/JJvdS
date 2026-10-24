@@ -1,16 +1,16 @@
-## Hi there 👋
+## Skills 🛠️
 
-<!--
-**JJvdS/JJvdS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Proficient**
+[![Core](https://skillicons.dev/icons?i=cpp,c,html,css,js,ts,react,vue,nodejs,py&theme=dark)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+**Comfortable**
+[![Comfortable](https://skillicons.dev/icons?i=java,go,bash,git,mysql&theme=dark)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently sharpening**
+[![Learning](https://skillicons.dev/icons?i=ocaml&theme=dark)](https://skillicons.dev)
+
+**Experimented with**
+[![Dabbled](https://skillicons.dev/icons?i=solidity,swift&theme=dark)](https://skillicons.dev)
+
+**Tools & creative**
+[![Tools](https://skillicons.dev/icons?i=figma,ps,ae,blender,spline,vscode,eclipse&theme=dark)](https://skillicons.dev)
