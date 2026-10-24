@@ -1,16 +1,19 @@
 ## Skills 🛠️
 
 **Proficient**
-[![Core](https://skillicons.dev/icons?i=cpp,c,html,css,js,ts,react,vue,nodejs,py&theme=dark)](https://skillicons.dev)
+
+[![Proficient](https://skillicons.dev/icons?i=cpp,c,html,css,sass,js,ts,react,vue,nodejs,py&theme=dark)](https://skillicons.dev)
 
 **Comfortable**
-[![Comfortable](https://skillicons.dev/icons?i=java,go,bash,git,mysql&theme=dark)](https://skillicons.dev)
 
-**Currently sharpening**
-[![Learning](https://skillicons.dev/icons?i=ocaml&theme=dark)](https://skillicons.dev)
+[![Comfortable](https://skillicons.dev/icons?i=ocaml,bash,git,mysql&theme=dark)](https://skillicons.dev)
 
-**Experimented with**
-[![Dabbled](https://skillicons.dev/icons?i=solidity,swift&theme=dark)](https://skillicons.dev)
+**Built projects in previously (Not studying / upkeeping as of now)**
+
+[![Built projects in](https://skillicons.dev/icons?i=java,go,solidity,swift&theme=dark)](https://skillicons.dev)
 
 **Tools & creative**
-[![Tools](https://skillicons.dev/icons?i=figma,ps,ae,blender,spline,vscode,eclipse&theme=dark)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=figma,ps,ae,blender,threejs,vscode,eclipse&theme=dark)](https://skillicons.dev)
+
+Currently sharpening my OCaml, drawn to functional programming and low level systems.
