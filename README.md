@@ -2,11 +2,11 @@
 
 **Proficient**
 
-[![Proficient](https://skillicons.dev/icons?i=cpp,c,html,css,sass,js,ts,react,vue,nodejs,py&theme=dark)](https://skillicons.dev)
+[![Proficient](https://skillicons.dev/icons?i=cpp,c,html,css,sass,js,ts,react,vue,nodejs&theme=dark)](https://skillicons.dev)
 
 **Comfortable**
 
-[![Comfortable](https://skillicons.dev/icons?i=ocaml,bash,git,mysql&theme=dark)](https://skillicons.dev)
+[![Comfortable](https://skillicons.dev/icons?i=ocaml,bash,git,py,mysql&theme=dark)](https://skillicons.dev)
 
 **Built projects in previously (Not studying / upkeeping as of now)**
 
